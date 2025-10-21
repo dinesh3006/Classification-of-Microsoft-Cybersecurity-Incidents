@@ -59,4 +59,4 @@ The saved XGBoost model was evaluated on the final, unseen `test.csv` dataset.
 | **Macro Avg**       | **0.89**  | **0.88** | **0.89** |
 | **Weighted Avg**    | **0.89**  | **0.89** | **0.89** |
 
-* **Handling Class Imbalance:** The dataset is imbalanced. Future iterations should use techniques like `stratify=y` during the `train_test_split` or apply class weighting (e.g., `scale_pos_weight` in XGBoost) to improve recall for the minority "FalsePositive" class.
+
