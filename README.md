@@ -7,6 +7,7 @@ The primary objective is to create a reliable predictive tool that helps SOC ana
 ## 🚀 Project Workflow
 
 The project follows a standard machine learning pipeline from data ingestion to final evaluation.
+You can access and download the data here: **[Data (Google Drive)](https://drive.google.com/drive/folders/18vt2lkf69MggXitrTSn9qnZ8s-ToeKcH)**
 
 1.  **💾 Data Loading:** Loaded the `train.csv` (4.7M records) and `test.csv` (4.1M records) datasets.
 2.  **🧹 Data Preprocessing:**
